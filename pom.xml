@@ -7,7 +7,7 @@
     <artifactId>elrrserviceparent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>parent</name>
-    <description>ELRR Service and Aggregator Parent project</description>
+    <description>ELRR Aggregator Parent project</description>
     <packaging>pom</packaging>
 
     <modules>

@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.deloitte</groupId>
-    <artifactId>report-aggregate</artifactId>
+    <artifactId>aggregator-report-aggregate</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>report-aggregator</name>
-    <description>ELRR Service and Aggregator Parent project</description>
+    <description>ELRR Aggregator Parent project combined reporting</description>
     <packaging>pom</packaging>
     <dependencies>
         <dependency>
@@ -16,8 +16,8 @@
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>com.deloitte</groupId>
-            <artifactId>elrrservices</artifactId>
+            <groupId>com.deloitte.elrr</groupId>
+            <artifactId>elrraggregator</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
